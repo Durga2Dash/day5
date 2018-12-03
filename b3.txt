@@ -6,7 +6,13 @@ branch
 3
 
 
+<<<<<<< HEAD
 Thus
 is merge
 Trying happrnning
 
+
+Thus 
+is
+happrnning here
+>>>>>>> branch3
